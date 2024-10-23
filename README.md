@@ -1,7 +1,7 @@
 # <a href="#" style="pointer-events: none;"> <img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/></a> • 42 Piscine Reload
 
 <a href="#" style="pointer-events: none;">
-<img align="right" src="./PiscineReload.jpeg" width="400"/>
+<img align="right" src="./piscinereload42-removebg-preview.png" width="400"/>
 </a>
 
 ### Overview
