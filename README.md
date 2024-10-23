@@ -1,4 +1,4 @@
-# 42 Piscine Reload
+# <a href="#" style="pointer-events: none;"> <img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/></a> • 42 Piscine Reload
 
 <img align="right" src="./PiscineReload.jpeg" width="400"/>
 
@@ -11,6 +11,11 @@ C Functions: Implementation of core C functions such as ft_strlen, ft_strchr, ft
 Memory Management: Techniques for dynamic memory allocation and manipulation. <br/>
 Coding Standards: All code is written following the Norm established by 42, ensuring readability, maintainability, and efficiency.
 
-
+### Earned skills
+<p align="left">
+  <a href="#" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=git,powershell,c,vim" />
+  </a>
+</p>  
 
 ###### Projeto desenvolvido por: [Adão Gonçalves](https://github.com/AdaoG0n)
