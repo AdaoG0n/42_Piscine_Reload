@@ -1,5 +1,7 @@
 # <a href="#" style="pointer-events: none;"> <img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/></a> • 42 Piscine Reload
-<a class="btn btn-block" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/AdaoG0n&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="013b1b7edf88471d7562c601d0caddcda277671f91c7f262f0f944c3c8e46ac8" href="/login?return_to=https%3A%2F%2Fgithub.com%2FAdaoG0n">Follow</a>
+<form class="js-form-toggle-target" data-sr-feedback="You are following iknowitslexaa" data-turbo="false" action="/users/follow?target=iknowitslexaa" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8mHPbxK5pquoVGZR-KEgs0iUUdjpJHnp9j3TRT2eI0WAJ3YuuB1kR1Nnlz7zQn1DbqnGvzn18b8et-rf_gwfOQ">
+        <input type="submit" name="commit" value="Follow" class="btn btn-block" title="Follow iknowitslexaa" aria-label="Follow iknowitslexaa" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:167018550,&quot;target&quot;:&quot;FOLLOW_BUTTON&quot;,&quot;user_id&quot;:182086398,&quot;originating_url&quot;:&quot;https://github.com/iknowitslexaa&quot;}}" data-hydro-click-hmac="f9f8612938d6ad1938622a3bb9c542a37380a02121044752160b1b9af125772e" data-disable-with="Follow">
+</form>
 <a href="#" style="pointer-events: none;">
 <img align="right" src="./piscinereload42-removebg-preview.png" width="400"/>
 </a>
