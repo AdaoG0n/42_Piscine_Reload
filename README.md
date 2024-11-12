@@ -22,6 +22,8 @@ Coding Standards: All code is written following the Norm established by 42, ensu
 </p>  
 
 ---
+
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/madeby.gif)
 ###### Projeto desenvolvido por: [Adão Gonçalves](https://github.com/AdaoG0n)
 
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FAdaoG0n%2F42_Piscine_Reload.json&style=flat-square&labelColor=black&color=blue)
