@@ -23,6 +23,7 @@ Coding Standards: All code is written following the Norm established by 42, ensu
   </a>
 </p>  
 
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/fundopagina.gif)
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/madeby.gif)
 ###### Projeto desenvolvido por: [Adão Gonçalves](https://github.com/AdaoG0n)
 
